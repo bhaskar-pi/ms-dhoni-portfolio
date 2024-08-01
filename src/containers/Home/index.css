@@ -1,0 +1,14 @@
+.home-container {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('/public/dhoniHomeBg.jpg');
+    background-size: cover;
+    height: 85.6vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-container h1, p{
+    color: #fff;
+    margin-bottom: 17px
+}

@@ -1,0 +1,18 @@
+.news-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.news-container h1 {
+    margin-top: 20px;
+}
+
+.news-cards {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 17px;
+}

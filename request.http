@@ -1,0 +1,3 @@
+GET https://cricbuzz-cricket.p.rapidapi.com/stats/v1/player/265
+X-RapidAPI-Key: 824d2a3b61mshd9bf1bd5f25f2a0p1ea121jsnfe154737a8bd
+X-RapidAPI-Host: cricbuzz-cricket.p.rapidapi.com
